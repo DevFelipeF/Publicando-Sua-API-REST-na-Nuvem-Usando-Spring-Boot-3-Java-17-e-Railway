@@ -1,6 +1,1 @@
-# Explorando Padrões de Projetos na Prática com Java
-
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro:
-- Singleton
-- Strategy
-- Facade
+Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway
